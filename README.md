@@ -1,3 +1,12 @@
+![Armando Urbina Soto — Consultor GRC & Seguridad de la Información](assets/banner.svg)
+
+[![ISO/IEC 27001:2022](https://img.shields.io/badge/ISO%2FIEC%2027001%3A2022-Auditor%20Interno-0B2F4A)](https://www.iso.org/standard/27001)
+[![NIST CSF 2.0](https://img.shields.io/badge/NIST%20CSF%202.0-GRC-0B2F4A)](https://www.nist.gov/cyberframework)
+[![vCISO](https://img.shields.io/badge/vCISO-00D8FF)](https://risknet.us/)
+[![vGRC](https://img.shields.io/badge/vGRC-2E3135)](https://risknet.us/)
+[![RiskNet](https://img.shields.io/badge/RiskNet-risknet.us-00D8FF)](https://risknet.us/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Armando%20Urbina%20Soto-0A66C2)](https://www.linkedin.com/in/armando-urbina-soto-62862517/)
+
 # Armando Urbina Soto
 
 **Consultor GRC & Seguridad de la Información | Auditor Interno ISO/IEC 27001:2022 e ISO/IEC 27005:2022 (SGS) & NIST CSF 2.0 (ISC2) | Gestión de Riesgos, Gobernanza de TI & Cumplimiento Normativo | B2B & Executive Stakeholder Management**
